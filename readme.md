@@ -1,4 +1,4 @@
-# Advent of Code Day 12
+# Advent of Code Day 13
 [Link to Advent of Code](https://adventofcode.com/)
 
 Solution for Part 1 and 2 with typing.
